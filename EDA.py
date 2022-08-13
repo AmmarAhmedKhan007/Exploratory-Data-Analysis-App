@@ -15,7 +15,7 @@ st.set_page_config(
 
 st.markdown('''
 # **Exploratory Data Analysis Web App**
-This app is Daeveloped By **Ammar Ahmed** called
+This app is Developed By **Ammar Ahmed** called
 **EDA App**
 ''')
 
